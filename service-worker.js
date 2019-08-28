@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ultimate_banning_app/precache-manifest.3c4d460d57d78f77b764831067292ca7.js"
+  "/ultimate_banning_app/precache-manifest.5bef8f61e8e909fc3b1b1e9eeae333ef.js"
 );
 
 workbox.clientsClaim();
