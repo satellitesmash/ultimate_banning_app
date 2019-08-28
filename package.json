@@ -6,7 +6,8 @@
     "firebase": "^5.8.6",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "react-spinners": "^0.6.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -22,5 +23,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "homepage": "http://satellitesmash.github.io/ultimate_banning_app"
 }

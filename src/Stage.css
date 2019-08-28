@@ -4,6 +4,7 @@
     border-radius: 5%;
     margin: 1em;
     position: relative;
+    user-select: none;
 }
 
 .border {
