@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/ultimate_banning_app/static/js/runtime~main.3998073a.js"
   },
   {
-    "revision": "343d1f4c2a1fc88bc1cb",
+    "revision": "dc45a9d054d8199af10e",
     "url": "/ultimate_banning_app/static/js/main.ce79a42d.chunk.js"
   },
   {
@@ -24,11 +24,11 @@ self.__precacheManifest = [
     "url": "/ultimate_banning_app/static/js/2.bbc9120a.chunk.js"
   },
   {
-    "revision": "343d1f4c2a1fc88bc1cb",
-    "url": "/ultimate_banning_app/static/css/main.d85d147b.chunk.css"
+    "revision": "dc45a9d054d8199af10e",
+    "url": "/ultimate_banning_app/static/css/main.df06386d.chunk.css"
   },
   {
-    "revision": "ff7739b90035d7eb7eb4cbf6468925e0",
+    "revision": "acfd98caa68c65185a362105a8e3e07f",
     "url": "/ultimate_banning_app/index.html"
   }
 ];
