@@ -38,3 +38,9 @@ body {
 .hide {
   visibility: hidden;
 }
+
+.App {
+  height: 95vh;
+  display: flex;
+  align-items: center;
+}
