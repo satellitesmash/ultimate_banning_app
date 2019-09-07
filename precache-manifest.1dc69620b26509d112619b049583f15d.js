@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/ultimate_banning_app/static/js/runtime~main.3998073a.js"
   },
   {
-    "revision": "dc45a9d054d8199af10e",
-    "url": "/ultimate_banning_app/static/js/main.ce79a42d.chunk.js"
+    "revision": "d06b4f499fc83610f113",
+    "url": "/ultimate_banning_app/static/js/main.17a3a0cd.chunk.js"
   },
   {
     "revision": "2a025d0bca44f1214ec8",
     "url": "/ultimate_banning_app/static/js/2.bbc9120a.chunk.js"
   },
   {
-    "revision": "dc45a9d054d8199af10e",
+    "revision": "d06b4f499fc83610f113",
     "url": "/ultimate_banning_app/static/css/main.df06386d.chunk.css"
   },
   {
-    "revision": "acfd98caa68c65185a362105a8e3e07f",
+    "revision": "f1e8c70d6d4386712d674a0be8cbb41e",
     "url": "/ultimate_banning_app/index.html"
   }
 ];
