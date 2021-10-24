@@ -25,16 +25,6 @@ exports.resetObj = {
         name: 'final_destination.jpg',
         value: 'none'
     },
-    '-L_RU2xMnWVajCL8zLtK': {
-        counterpick: true,
-        name: 'kalos.png',
-        value: 'none'
-    },
-    '-L_RU2xMnWVajCL8zLtL': {
-        counterpick: true,
-        name: 'lylat.jpg',
-        value: 'none'
-    },
     '-L_RU2xNGG37M1hMOpvQ': {
         name: 'ps2.png',
         value: 'none'
@@ -44,12 +34,17 @@ exports.resetObj = {
         value: 'none'
     },
     '-L_RU2xNGG37M1hMOpvS': {
+        counterpick: true,
         name: 'town.png',
         value: 'none'
     },
-    '-L_RU2xO1Wj5IZQ9iNW1': {
+    '-L_RU2xMnWVajCL8zLtL': {
+        name: 'small_battlefield.jpeg',
+        value: 'none'
+    },
+    '-L_RU2xMnWVajCL8zLtK': {
         counterpick: true,
-        name: 'yoshi_story.png',
+        name: 'nothern_cave.png',
         value: 'none'
     }
 };

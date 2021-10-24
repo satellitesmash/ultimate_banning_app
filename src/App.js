@@ -112,7 +112,7 @@ export default class App extends Component {
 								<button className="button" style={{ margin: '1rem '}} onClick={this.reset}>Reset</button>
 							</div>
 							<div className={hide ? "hide" : ""}>
-								<img height={100} alt="pp5-logo" src={require('./pp5.png')}></img>
+								<img height={100} alt="pp6-logo" src='./port6.png'></img>
 							</div>
 							<div className={hide ? "hide" : ""} style={{ width: '30%', textAlign: 'right' }}>
 								<h2 style={{ color: 'white', margin: '1rem' }}>{counterpick ? "counterpick".toUpperCase() : "starter".toUpperCase()}</h2>
