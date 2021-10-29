@@ -1,5 +1,5 @@
 {
-  "main.css": "/ultimate_banning_app/static/css/main.b1ed685c.chunk.css",
+  "main.css": "/ultimate_banning_app/static/css/main.72f1981c.chunk.css",
   "main.js": "/ultimate_banning_app/static/js/main.27fb036e.chunk.js",
   "main.js.map": "/ultimate_banning_app/static/js/main.27fb036e.chunk.js.map",
   "runtime~main.js": "/ultimate_banning_app/static/js/runtime~main.3998073a.js",
@@ -7,9 +7,9 @@
   "static/js/2.bbc9120a.chunk.js": "/ultimate_banning_app/static/js/2.bbc9120a.chunk.js",
   "static/js/2.bbc9120a.chunk.js.map": "/ultimate_banning_app/static/js/2.bbc9120a.chunk.js.map",
   "index.html": "/ultimate_banning_app/index.html",
-  "precache-manifest.65a3b1720937a942262957993c4cd679.js": "/ultimate_banning_app/precache-manifest.65a3b1720937a942262957993c4cd679.js",
+  "precache-manifest.a017ba9ee9938c1f5894eb21ff0911ec.js": "/ultimate_banning_app/precache-manifest.a017ba9ee9938c1f5894eb21ff0911ec.js",
   "service-worker.js": "/ultimate_banning_app/service-worker.js",
-  "static/css/main.b1ed685c.chunk.css.map": "/ultimate_banning_app/static/css/main.b1ed685c.chunk.css.map",
+  "static/css/main.72f1981c.chunk.css.map": "/ultimate_banning_app/static/css/main.72f1981c.chunk.css.map",
   "static/media/App.css": "/ultimate_banning_app/static/media/Nexa-Bold.254370af.otf",
   "static/media/Stage.css": "/ultimate_banning_app/static/media/bannedRed.ddc2f1f9.png"
 }
